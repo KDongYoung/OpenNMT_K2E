@@ -26,4 +26,4 @@ Open NMT - Korean to English translation
 gui2.py
 
 
-This work is based on [\[OpenNMT\]\](https://github.com/OpenNMT/OpenNMT-py)
+This work is based on [\[OpenNMT\]](https://github.com/OpenNMT/OpenNMT-py)
