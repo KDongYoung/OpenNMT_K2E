@@ -6,7 +6,6 @@ this_directory = path.abspath(path.dirname(__file__))
 setup(
     install_requires=[
         "six",
-        "tqdm~=4.30.0",
         "torch>=1.4.0",
         "torchtext==0.4.0",
         "future",
@@ -18,3 +17,5 @@ setup(
         "MeCab"
     ],
 )
+
+# "tqdm~=4.30.0",
